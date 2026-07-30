@@ -18,4 +18,4 @@ User-agent: DotBot
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://royals-tiger-3.pages.dev/sitemap.xml
+Sitemap: https://royals-tiger-3-79t.pages.dev/sitemap.xml
